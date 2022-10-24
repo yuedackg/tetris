@@ -1,0 +1,1 @@
+item = document.getElementById( "myCanvas")
